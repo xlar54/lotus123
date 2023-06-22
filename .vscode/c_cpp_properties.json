@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "cc65",
+            "includePath": [
+                "F:\\Software\\Emulation\\Commodore\\Development\\cc65-dev\\include"
+            ],
+            "defines": [],
+            "compilerPath": "F:/Software/Emulation/Commodore/Development/cc65-dev/bin/cl65.exe",
+            "cStandard": "c99",
+            "intelliSenseMode": "${default}",
+            "compilerArgs": [
+                "-tc128"
+            ]
+        }
+    ],
+    "version": 4
+}
